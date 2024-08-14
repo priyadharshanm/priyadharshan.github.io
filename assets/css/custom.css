@@ -633,3 +633,21 @@ a:hover {
 
 
 
+.certifications-list {
+    list-style-type: none; /* Remove default bullets */
+    padding-left: 0; /* Remove default padding */
+    margin-top: 20px; /* Add space above the list */
+}
+
+.certifications-list li {
+    margin-bottom: 10px; /* Space between items */
+    font-size: 1.1rem; /* Adjust font size */
+    display: flex; /* Flexbox for icon and text alignment */
+    align-items: center;
+}
+
+.certifications-list li i {
+    margin-right: 10px; /* Space between icon and text */
+    color: #0077b5; /* Icon color (LinkedIn Blue) */
+    font-size: 1.2rem; /* Adjust icon size */
+}
