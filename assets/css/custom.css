@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     bottom: 0;
     width: 4px;
-    background: #005bbb  ;
+    background: #343a40  ;
     transform: translateX(-50%);
 }
 
@@ -629,3 +629,7 @@ a:hover {
     word-break: break-word; /* Break long words if necessary */
     text-align: left; /* Ensure list items are left-aligned */
 }
+
+
+
+
